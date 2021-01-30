@@ -1,1 +1,8 @@
 some stuff here
+more stuff have been added through atom.
+we are cloning
+remote to local
+making some changes
+committing the changes 
+pushing it back to
+remote repository
